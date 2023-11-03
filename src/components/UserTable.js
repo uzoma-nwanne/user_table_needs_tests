@@ -87,10 +87,10 @@ const UserTable = () => {
                     <thead>
                         <tr>
                             <th>
-                                <td>First Name</td>
+                              First Name
                             </th>
                             <th>
-                                <td>User Name</td>
+                                User Name
                             </th>
                         </tr>
                     </thead>
